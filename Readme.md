@@ -1,7 +1,7 @@
 # Личный проект «Пиксель хантер» [![Build status][travis-image]][travis-url]
 
 * Студент: [Орест Ярич](https://up.htmlacademy.ru/ecmascript/6/user/603909).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Вохмянин](https://up.htmlacademy.ru/ecmascript/6/user/530823).
 
 ---
 
